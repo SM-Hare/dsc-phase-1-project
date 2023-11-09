@@ -1,6 +1,6 @@
-# Phase 1 Project
+# Microsoft Movie Studio Analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+**Authors**: 
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
 
